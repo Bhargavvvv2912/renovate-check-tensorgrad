@@ -2,6 +2,12 @@
 
 This repository contains the official implementation of **TensorGRaD**, a memory-efficient gradient optimization framework for training large-scale neural operators. TensorGRaD uses a robust combination of low-rank tensor decomposition and unstructured sparsification to compress gradient updates. TensorGRaD achieves significant memory savings while maintaining or even improving model performance.
 
+> **Note**
+> TensorGRaD has been integrated into the **NeuralOperator** library. If you are looking to use TensorGRaD in your own projects, we recommend using the NeuralOperator implementation:
+>
+> - **NeuralOperator:** https://github.com/neuraloperator/neuraloperator
+> - **Example:** https://neuraloperator.github.io/dev/auto_examples/training/plot_tensorgrad_fno_darcy.html
+
 ## Installation
 
 Start from a clean conda environment:

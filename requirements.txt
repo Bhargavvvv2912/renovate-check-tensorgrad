@@ -15,5 +15,5 @@ more-itertools==10.8.0
 scipy==1.14.0
 torch-harmonics==0.7.3
 torch-optimizer==0.3.0
-pandas==2.2.3
+pandas==2.3.3
 tqdm==4.67.1

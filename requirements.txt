@@ -17,6 +17,3 @@ torch-harmonics==0.7.3
 torch-optimizer==0.3.0
 pandas==2.2.3
 tqdm==4.67.1
--e ./tensorly
--e ./neuraloperator
-

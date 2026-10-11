@@ -12,7 +12,7 @@ h5py==3.16.0
 zarr==2.18.2
 pytest==8.3.1
 more-itertools==11.1.0
-scipy==1.14.0
+scipy==1.18.1
 torch-harmonics==0.7.3
 torch-optimizer==0.3.0
 pandas==2.3.3

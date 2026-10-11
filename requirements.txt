@@ -9,7 +9,7 @@ configmypy==0.2.0
 matplotlib==3.9.1
 opt-einsum==3.4.0
 h5py==3.16.0
-zarr==2.18.2
+zarr==2.18.7
 pytest==9.1.1
 more-itertools==11.1.0
 scipy==1.14.0
